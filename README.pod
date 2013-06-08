@@ -1,0 +1,28 @@
+=pod
+
+=head1 NAME
+
+Task::BeLike::Plicease::Developer - Developer Module Plicease Uses
+
+=head1 VERSION
+
+version 0.01
+
+=head1 DESCRIPTION
+
+Meta package that requires
+L<Dist::Zilla::PluginBundle::ACPS> and
+L<Dist::Zilla::PluginBundle::Author::Plicease>.
+That's all folks.
+
+=head1 AUTHOR
+
+Graham Ollis <plicease@cpan.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2013 by Graham Ollis.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
