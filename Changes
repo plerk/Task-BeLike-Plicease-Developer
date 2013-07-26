@@ -2,5 +2,8 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.04      2013-07-26 06:03:18 America/New_York
+  - add modules required for TtRenderer dev
+
 0.03      2013-07-18 14:09:19 America/New_York
   - initial version
